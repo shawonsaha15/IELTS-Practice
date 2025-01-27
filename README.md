@@ -3,9 +3,9 @@ This repository is for tracking my answers and band scores over the time I give 
 **Scores Achieved:** <br>
 <details>
   <summary>Book 16</summary>
-  |Band Score|TASK|
+  | Band Score | TASK |
   |--------:|------------|
-  |5.5 - 6.0|Writing Task 1|
-  |5.5 - 6.0|Writing Task 2|
-  |7.0|Reading|
+  | 5.5 - 6.0 | Writing Task 1 |
+  | 5.5 - 6.0 | Writing Task 2 |
+  | 7.0 | Reading |
 </details>
