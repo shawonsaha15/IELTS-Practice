@@ -4,10 +4,10 @@ This repository is for tracking my answers and band scores every time I give a t
 <details>
   <summary>Book 16</summary>
   
-  | Band Score | TASK |
+  | Band Score | Task |
   |----------:|----------------|
-  | 5.5 - 6.0 | Writing Task 1 |
-  | 5.5 - 6.0 | Writing Task 2 |
+  | 5.5 - 6.0 | Writing - 1 |
+  | 5.5 - 6.0 | Writing - 2 |
   | 7.0       | Reading        |
   | 8.0       | Listening      |
 </details>
