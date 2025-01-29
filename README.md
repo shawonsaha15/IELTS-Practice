@@ -10,4 +10,12 @@ This repository is for tracking my answers and band scores every time I give a t
   | 5.5 - 6.0 | Writing - 2 |
   | 7.0       | Reading        |
   | 8.0       | Listening      |
+
+  
+  | Band Score | Task |
+  |----------:|----------------|
+  | 5.5 - 6.0 | Writing - 1 |
+  | 5.5 - 6.0 | Writing - 2 |
+  | 7.0       | Reading        |
+  | 8.0       | Listening      |
 </details>
