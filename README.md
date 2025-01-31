@@ -16,6 +16,6 @@ This repository is for tracking my answers and band scores every time I give a t
   |----------:|----------------|
   |  | Writing - 1 |
   |  | Writing - 2 |
-  |    6    | Reading        |
-  |    8    | Listening      |
+  |    6.0    | Reading        |
+  |    8.0    | Listening      |
 </details>
