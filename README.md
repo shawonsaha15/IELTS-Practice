@@ -2,11 +2,11 @@
 This repository is for tracking my answers and band scores every time I give a test. I am using ChatGPT to have my writing tasks checked and scored on it. As for the rest, I am checking the answers provided for each book. <br>
 I am using the following marks table to score my reading and listening segments. <br>
 <details>
-  <summary>**Listening Score List**</summary>
+  <summary>Listening Score List</summary>
     ![](Listening%20band%20score.png)
 </details>
 <details>
-  <summary>**Reading Score List**</summary>
+  <summary>Reading Score List</summary>
     ![](Reading%20band%20score.png)
 </details>
 
