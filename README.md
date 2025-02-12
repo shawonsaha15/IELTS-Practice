@@ -25,7 +25,7 @@ I am using the following marks table to score my reading and listening segments.
   | Band Score | Test 2 |
   |----------:|----------------|
   | 6.5 - 7.0 | Writing - 1 |
-  |  | Writing - 2 |
+  | 6.5 - 7.0 | Writing - 2 |
   |    6.0    | Reading        |
   |    8.0    | Listening      |
 </details>
