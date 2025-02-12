@@ -15,12 +15,9 @@ I am using the following marks table to score my reading and listening segments.
 <details>
   <summary>Book 16</summary>
   
-  | Band Score | Test 1 |
-  |----------:|----------------|
-  | 5.5 - 6.0 | Writing - 1 |
-  | 5.5 - 6.0 | Writing - 2 |
-  | 7.0       | Reading        |
-  | 8.0       | Listening      |
+  | Test 1 | Writing - 1 | Writing - 2 | Reading | Listening |
+  |-------:|-------------------------------------------------|
+  | Band Score | 5.5 - 6.0 | 5.5 - 6.0 | 7.0 | 8.0 |
 
   
   | Band Score | Test 2 |
