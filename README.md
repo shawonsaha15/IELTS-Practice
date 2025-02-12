@@ -14,12 +14,14 @@ I am using the following marks table to score my reading and listening segments.
 **Scores Achieved** <br>
 <details>
   <summary>Book 16</summary>
-  
-  | Test 1 | Writing - 1 | Writing - 2 | Reading | Listening |
-  |-------:|-------------------------------------------------|
-  | Band Score | 5.5 - 6.0 | 5.5 - 6.0 | 7.0 | 8.0 |
 
-  
+  | Band Score | Test 1 |
+  |----------:|----------------|
+  | 6.5 - 7.0 | Writing - 1 |
+  |  | Writing - 2 |
+  |    7.0    | Reading        |
+  |    8.0    | Listening      |
+    
   | Band Score | Test 2 |
   |----------:|----------------|
   |  | Writing - 1 |
