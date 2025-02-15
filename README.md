@@ -28,4 +28,12 @@ I am using the following marks table to score my reading and listening segments.
   | 6.5 - 7.0 | Writing - 2 |
   |    6.0    | Reading        |
   |    8.0    | Listening      |
+
+  
+  | Band Score | Test 3 |
+  |----------:|----------------|
+  |  | Writing - 1 |
+  |  | Writing - 2 |
+  |        | Reading        |
+  |    7.5    | Listening      |
 </details>
