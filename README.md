@@ -33,7 +33,7 @@ I am using the following marks table to score my reading and listening segments.
   | Band Score | Test 3 |
   |----------:|----------------|
   | 5.5 - 6.0 | Writing - 1 |
-  |  | Writing - 2 |
+  | 5.5 - 6.0 | Writing - 2 |
   |    8.0    | Reading        |
   |    7.5    | Listening      |
 
