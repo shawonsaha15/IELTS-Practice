@@ -40,7 +40,7 @@ I am using the following marks table to score my reading and listening segments.
   
   | Band Score | Test 4 |
   |----------:|----------------|
-  |  | Writing - 1 |
+  | 5.5 - 6.5 | Writing - 1 |
   | 5.5 - 6.0 | Writing - 2 |
   |    7.0    | Reading        |
   |    8.0    | Listening      |
