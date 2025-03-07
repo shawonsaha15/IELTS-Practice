@@ -42,6 +42,6 @@ I am using the following marks table to score my reading and listening segments.
   |----------:|----------------|
   |  | Writing - 1 |
   |  | Writing - 2 |
-  |        | Reading        |
+  |    7.0    | Reading        |
   |    8.0    | Listening      |
 </details>
