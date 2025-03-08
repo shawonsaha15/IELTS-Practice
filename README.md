@@ -45,3 +45,37 @@ I am using the following marks table to score my reading and listening segments.
   |    7.0    | Reading        |
   |    8.0    | Listening      |
 </details>
+
+<details>
+  <summary>Book 17</summary>
+
+  | Band Score | Test 1 |
+  |----------:|----------------|
+  |  | Writing - 1 |
+  |  | Writing - 2 |
+  |    6.5    | Reading        |
+  |    8.5    | Listening      |
+    
+  | Band Score | Test 2 |
+  |----------:|----------------|
+  | 6.5 - 7.0 | Writing - 1 |
+  | 6.5 - 7.0 | Writing - 2 |
+  |    6.0    | Reading        |
+  |    8.0    | Listening      |
+
+  
+  | Band Score | Test 3 |
+  |----------:|----------------|
+  | 5.5 - 6.0 | Writing - 1 |
+  | 5.5 - 6.0 | Writing - 2 |
+  |    8.0    | Reading        |
+  |    7.5    | Listening      |
+
+  
+  | Band Score | Test 4 |
+  |----------:|----------------|
+  | 5.5 - 6.5 | Writing - 1 |
+  | 5.5 - 6.0 | Writing - 2 |
+  |    7.0    | Reading        |
+  |    8.0    | Listening      |
+</details>
