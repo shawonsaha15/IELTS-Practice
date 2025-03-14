@@ -51,7 +51,7 @@ I am using the following marks table to score my reading and listening segments.
 
   | Band Score | Test 1 |
   |----------:|----------------|
-  |  | Writing - 1 |
+  | 5.5 - 6.0 | Writing - 1 |
   |  | Writing - 2 |
   |    6.5    | Reading        |
   |    8.5    | Listening      |
