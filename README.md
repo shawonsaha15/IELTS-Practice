@@ -60,7 +60,7 @@ I am using the following marks table to score my reading and listening segments.
   |----------:|----------------|
   | 5.5 - 6.5 | Writing - 1 |
   | 5.5 - 6.5 | Writing - 2 |
-  |        | Reading        |
+  |   7.0     | Reading        |
   |        | Listening      |
 
   
