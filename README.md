@@ -60,8 +60,8 @@ I am using the following marks table to score my reading and listening segments.
   |----------:|----------------|
   | 5.5 - 6.5 | Writing - 1 |
   | 5.5 - 6.5 | Writing - 2 |
-  |   7.0     | Reading        |
-  |   8.0     | Listening      |
+  |    7.0    | Reading        |
+  |    8.0    | Listening      |
 
   
   | Band Score | Test 3 |
@@ -69,7 +69,7 @@ I am using the following marks table to score my reading and listening segments.
   |  | Writing - 1 |
   |  | Writing - 2 |
   |        | Reading        |
-  |        | Listening      |
+  |    9.0    | Listening      |
 
   
   | Band Score | Test 4 |
